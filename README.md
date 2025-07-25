@@ -1,4 +1,4 @@
-# 🖼️ Image Resizer & Format Converter Tool (Batch Processing)
+# 🖼️ Image Resizer python
 
 This Python tool resizes and converts all images in a folder using the **Pillow** library. It's ideal for batch image processing where you need consistent dimensions or format conversion.
 
